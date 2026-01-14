@@ -1,0 +1,23 @@
+[
+  {
+    "id": 1,
+    "login": "admin",
+    "senha": "admin",
+    "role": "admin",
+    "createdAt": "2025-01-13T00:00:00.000Z"
+  },
+  {
+    "id": 2,
+    "login": "teste",
+    "senha": "123456",
+    "role": "user",
+    "createdAt": "2026-01-14T01:31:58.051Z"
+  },
+  {
+    "id": 3,
+    "login": "usuario_teste",
+    "senha": "123456",
+    "role": "user",
+    "createdAt": "2026-01-14T02:25:23.001Z"
+  }
+]
