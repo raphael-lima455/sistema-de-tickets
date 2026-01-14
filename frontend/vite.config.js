@@ -11,7 +11,6 @@ export default defineConfig({
   preview: {
     host: true,
     port: 5173,
-    strictPort: false,
-    allowedHosts: 'all'
+    allowedHosts: ['sistema-de-tickets-frontend-production.up.railway.app']
   }
 })
